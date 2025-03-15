@@ -1,6 +1,12 @@
 <img width="100%" src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*yw0TnheAGN-LPneDaTlaxw.gif"/>
 <h1>💫Hi friends, I'm <a href="https://www.linkedin.com/in/sumit-kumar-nayak-024963215/">Sumit Kumar Nayak </a>👋</h1>
 
+<h3 align="center">------------Full Stack Developer------------</h3>
+<img align='center' alt='coding img' width='50%' src='https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif'>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nihal8gupta&label=Profile%20views&color=0e75b6&style=flat" alt="nihal8gupta" /> </p>
+
+
 <img src="https://KiranKumarMalik.github.io/chinmayakumarbiswal/welcome.gif" height="300px" width="300px"> 
 
 •	🔭 I’m a Fresher!!!
