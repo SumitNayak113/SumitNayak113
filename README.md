@@ -14,7 +14,7 @@
 
 •	🔭 I’m a Fresher!!!
 
-•	🌱 I have knowledge on Cloud Technology, DevOps and Python Programming..
+•	🌱 I have knowledge on web Technology, Database and Python Development..
 
 •	🤔 I’m looking for Full-time opportunity and research projects in the field of  Python Software/Full-Stack Development
 
