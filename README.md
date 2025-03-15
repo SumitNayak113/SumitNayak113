@@ -1,3 +1,6 @@
+
+<h2 align="center"> 👨‍💻👨‍💻👨‍💻Backend builds the foundation, frontend crafts the experience👨‍💻👨‍💻👨‍💻</h2>
+
 <img width="100%" src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*yw0TnheAGN-LPneDaTlaxw.gif"/>
 <h1>💫Hi friends, I'm <a href="https://www.linkedin.com/in/sumit-kumar-nayak-024963215/">Sumit Kumar Nayak </a>👋</h1>
 
@@ -54,10 +57,8 @@
 
 # 🎖 Global Certifications:
 
-<p align="left"> <a href="https://drive.google.com/file/d/143ZknuWNseKLlfrhhyQYtWmT6rlAYwGN/view?usp=sharing" target="_blank" rel="noreferrer"> <img src="Screenshot 2025-02-05 233558.png" alt="android" width="150" height="150"/> </a> <a href="https://drive.google.com/file/d/1Gtuk1uti2rOtPlKRk8GFCCd2foNqZl6r/view?usp=sharing" target="_blank" rel="noreferrer"> <img src="Screenshot 2025-02-06 002807.png" alt="android" width="100" height="100"/> </a> <a href="https://drive.google.com/file/d/1TS_WVvy6cYw0t-xf8ITzGfzTJlpbg6XQ/view?usp=sharing" target="_blank" rel="noreferrer"> <img src="" alt="microsoftfundamental" width="100" height="100"/> </a></p>
+<p align="left"> <a href="https://drive.google.com/file/d/143ZknuWNseKLlfrhhyQYtWmT6rlAYwGN/view?usp=sharing" target="_blank" rel="noreferrer"> <img src="Screenshot 2025-02-05 233558.png" alt="android" width="150" height="150"/> </a> <a href="https://drive.google.com/file/d/1Gtuk1uti2rOtPlKRk8GFCCd2foNqZl6r/view?usp=sharing" target="_blank" rel="noreferrer"> <img src="Screenshot 2025-02-06 002807.png" alt="android" width="100" height="100"/> </a> <a href="https://drive.google.com/file/d/1TS_WVvy6cYw0t-xf8ITzGfzTJlpbg6XQ/view?usp=sharing" target="_blank" rel="noreferrer"> <img src="image5.png" alt="microsoftfundamental" width="100" height="100"/> </a> <a href="https://drive.google.com/file/d/1poLmtwEhS1GuJ97e6KzQISJCj_Fwh-4p/view?usp=sharing" target="_blank" rel="noreferrer"> <img src="image7.png" alt="microsoftfundamental" width="100" height="100"/> </a>  <a href="https://drive.google.com/file/d/1BS4XEqQ2A-vru9CDqKnJ1t_LJ7xvEYoA/view?usp=sharing" target="_blank" rel="noreferrer"> <img src="image6.png" alt="microsoftfundamental" width="100" height="100"/> </a> </p>
 
-<h3 align="left">Salesforce Trailhead</h3>
-<p align="left"> <a href="https://www.salesforce.com/trailblazer/profile/" target="_blank" rel="noreferrer"> <img src="https://developer.salesforce.com/resources2/certification-site/images/Certifications-logo/Administrator.png" alt="salesforce" width="100" height="100"/> </a></p>
 
 
 # 💻 Tech Stack:
